@@ -55,12 +55,13 @@ python -m venv venv
 
 ### 4. Activate Virtual Environment
 ```bash```
-venv\Scripts\activate [For Windows]
-source venv/bin/activate [For Mac/Linux]
+-venv\Scripts\activate [For Windows]
+
+-source venv/bin/activate [For Mac/Linux]
 
 ### 5. Install Dependencies
 ```bash```
-pip install -r requirements.txt (or) python -m pip install -r requirements.txt
+pip install -r requirements.txt   (or)   python -m pip install -r requirements.txt
 
 ### 6. Apply Migrations
 ```bash```
@@ -92,8 +93,13 @@ Frontend runs at: ```bash``` http://localhost:3000/
 Through this project, I gained practical experience in:
 
 -Full Stack Web Development
+
 -REST API Integration
+
 -React Component Architecture
+
 -Django Backend Development
+
 -Database Handling
+
 -Frontend & Backend Connectivity
